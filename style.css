@@ -1,0 +1,101 @@
+.head{
+	font-family: fantasy;
+	font-size: 50px;
+	text-align: center;
+	color: white;
+	background-color: red;
+	border: 5px solid;
+	border-color: yellow;
+	align-content: center;
+	width: 14.2%;
+	margin-left: 600px;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+.about{
+	font-size: 35px;
+	color: white;
+	min-height: 5px;
+	background-color: red;
+	border: 5px solid;
+	border-color: yellow;
+	width: 49%;
+	float: left;
+}
+.address{
+	font-size: 35px;
+	color: white;
+	min-height: 5px;
+	background-color: red;
+	border: 5px solid;
+	border-color: yellow;
+	width: 49%;
+	float: right;
+}
+
+
+.service{
+	color: black;
+	font-family: cursive;
+	font-size: 35px;
+	margin-top: 50px;
+
+}
+.svc{
+	margin-bottom: 100px;
+}
+
+.s1{
+	font-size: 35px;
+	color: white;
+	min-height: 5px;
+	background-color: red;
+	border: 5px solid;
+	border-color: yellow;
+	width: 32.6%;
+	float: left;
+}
+.s2{
+	font-size: 35px;
+	color: white;
+	min-height: 5px;
+	background-color: red;
+	border: 5px solid;
+	border-color: yellow;
+	width: 32.6%;
+	float: left;
+}
+.s3{
+	font-size: 35px;
+	color: white;
+	min-height: 5px;
+	background-color: red;
+	border: 5px solid;
+	border-color: yellow;
+	width: 32.6%;
+	float: left;
+}
+.img{
+	width: 49%;
+	height: 500px;
+	border: 2px solid black;
+}
+.img2{
+	width: 49%;
+	height: 500px;
+	border: 2px solid black;
+}
+.footer{
+	font-family: fantasy;
+	font-size: 50px;
+	text-align: center;
+	color: white;
+	background-color: orange;
+	border: 5px solid red;
+	
+	align-content: center;
+	width: auto;
+	margin: 100px
+}
